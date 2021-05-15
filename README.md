@@ -5,7 +5,7 @@ Cross-Platform Secure High-Speed Managed File Transfer Service
 
 ## Installation
 
-Use the package manager [brew](https://brew.sh/) to install atcli.
+Use [brew](https://brew.sh/) package manager to install atcli.
 
 ```bash
 brew tap alephtransfer/homebrew-atcli
@@ -25,8 +25,7 @@ atcli down --help
 Please check this [link](https://alephtransfer.com/doc/atcli.html) for the latest documentation.
 
 ## License
-Copyright (c) 2010-2021 ALEPH ARCHIVES Ltd. All rights reserved
-https://aleph-archives.com/
+Copyright (c) 2010-2021 [ALEPH ARCHIVES](https://aleph-archives.com/). All rights reserved
 
 
 ## SUPPORT
