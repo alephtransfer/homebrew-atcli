@@ -4,7 +4,7 @@ class Atcli < Formula
   desc "Cross-Platform Secure High-Speed Managed File Transfer Service"
   homepage "https://app.alephtransfer.com/"
   url "https://github.com/alephtransfer/homebrew-atcli/releases/download/v1.0.3/atcli-darwin-amd64-1.0.3.tar.gz"
-  sha256 "4eeeb4d0dbe7a82f53a378b9ef9417c0ad2d12ab5db87135cb65ba04cc8bd3a9"
+  sha256 "ee65b0780fc2f88a2c8a7e704d7d2586601ca1ae016a4c6f40dae5c3cc081463"
   head "https://github.com/alephtransfer/homebrew-atcli.git"
 
   def install
