@@ -1,6 +1,6 @@
 require "formula"
 
-class ATCLI < Formula
+class Atcli < Formula
   desc "Cross-Platform Secure High-Speed Managed File Transfer Service"
   homepage "https://app.alephtransfer.com/"
   url "https://github.com/alephtransfer/homebrew-atcli/releases/download/v1.0.3/atcli-darwin-amd64-1.0.3.tar.gz"
