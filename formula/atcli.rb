@@ -6,7 +6,7 @@ class Atcli < Formula
   license "proprietary"
   #license_link "https://github.com/some/project/blob/master/LISENSE.txt"
   url "https://github.com/alephtransfer/homebrew-atcli/releases/download/v1.0.3/atcli-darwin-amd64-1.0.3.tar.gz"
-  sha256 "e8b11c8fc6a146c30707820eebe8590e3fa4c50c0096342e0bda6f87d9a7227a"
+  sha256 "7751ab7e3856b8601253a4575d254e066fb1e533b76995d3c45580170438d5a6"
   head "https://github.com/alephtransfer/homebrew-atcli.git"
 
   def install
