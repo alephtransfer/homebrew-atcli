@@ -9,7 +9,8 @@ class Atcli < Formula
   url "https://github.com/alephtransfer/homebrew-atcli/releases/download/v#{version}/atcli-darwin-amd64-#{version}.tar.gz"
   sha256 "7751ab7e3856b8601253a4575d254e066fb1e533b76995d3c45580170438d5a6"
   head "https://github.com/alephtransfer/homebrew-atcli.git"
-
+  depends_on macos: ">= :catalina"
+  
   livecheck do
     url :url
   end
