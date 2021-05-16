@@ -10,6 +10,11 @@ class Atcli < Formula
   sha256 "7751ab7e3856b8601253a4575d254e066fb1e533b76995d3c45580170438d5a6"
   head "https://github.com/alephtransfer/homebrew-atcli.git"
 
+  livecheck do
+    url :url
+    strategy :github_latest
+  end
+
   def install
     bin.install "atcli"
     man7.install "atcli.7.gz"
