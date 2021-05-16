@@ -12,7 +12,6 @@ class Atcli < Formula
 
   livecheck do
     url :url
-    strategy :github_latest
   end
 
   def install
