@@ -14,7 +14,8 @@ class Atcli < Formula
   
   ## https://support.apple.com/en-us/HT201260
   #depends_on macos: ">= :sierra"
-  depends_on macos: :catalina
+  #depends_on macos: :catalina
+  depends_on macos: :bigsur
   
   livecheck do
     url :url
