@@ -4,9 +4,7 @@ class Atcli < Formula
   version "1.0.3"
   desc "Cross-Platform Secure High-Speed Managed File Transfer Service"
   homepage "https://alephtransfer.com/"
-  license "proprietary", <<~LICENSE
-  The license file can be found here: https://alephtransfer.com/license/atcli/LICENSE.txt
-LICENSE
+  license "proprietary"
   #license "proprietary", :description => "https://alephtransfer.com/license/atcli/LICENSE.txt"
   #license_link "https://alephtransfer.com/license/atcli/LICENSE.txt"
   url "https://github.com/alephtransfer/homebrew-atcli/releases/download/v#{version}/atcli-darwin-amd64-#{version}.tar.gz"
