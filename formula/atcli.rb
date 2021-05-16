@@ -11,6 +11,7 @@ class Atcli < Formula
 
   def install
     bin.install "atcli"
+    man7.install "atcli.7.gz"
   end
 
   # Homebrew requires tests.
