@@ -27,6 +27,6 @@ class Atcli < Formula
 
   # Homebrew requires tests.
   test do
-    assert_match "1.0.3", shell_output("#{bin}/atcli --version", 2)
+    assert_match #{version}, shell_output("#{bin}/atcli --version", 2)
   end
 end
