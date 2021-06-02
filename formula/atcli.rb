@@ -1,7 +1,7 @@
 require "formula"
 
 class Atcli < Formula
-  version "1.0.4"
+  version "1.0.5"
   desc "Cross-Platform Secure High-Speed Managed File Transfer Service"
   homepage "https://alephtransfer.com/"
   
