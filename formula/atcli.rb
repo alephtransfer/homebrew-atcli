@@ -1,7 +1,7 @@
 require "formula"
 
 class Atcli < Formula
-  version "1.0.5"
+  version "1.0.6"
   desc "Cross-Platform Secure High-Speed Managed File Transfer Service"
   homepage "https://alephtransfer.com/"
   
@@ -10,7 +10,7 @@ class Atcli < Formula
   
   head "https://github.com/alephtransfer/homebrew-atcli.git"
   url "https://github.com/alephtransfer/homebrew-atcli/releases/download/v#{version}/atcli-darwin-amd64-#{version}.tar.gz"
-  sha256 "488588bcac4b2f2d042b6ad33d124f532ceeae6b1704495e74e8b29312f83aad"
+  sha256 "d84cfa602cf9800fd684db295b6b09cc9ba03fa6bbfb84e476ebd149a06cc7f3"
   
   ## https://support.apple.com/en-us/HT201260
   #depends_on macos: :big_sur
