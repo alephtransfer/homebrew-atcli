@@ -29,7 +29,7 @@ Please check this [link](https://alephtransfer.com/doc/atcli.html) for the lates
 A SaaS version (Cloud and OnPrem) for `AlephTransfer` is available [here](https://alephtransfer.com/).
 
 ## License
-Copyright (c) 2010-2021 [ALEPH ARCHIVES](https://aleph-archives.com/). All rights reserved
+Copyright (c) 2010-2023 [ALEPH ARCHIVES](https://aleph-archives.com/). All rights reserved
 
 
 ## SUPPORT
